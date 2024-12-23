@@ -1,0 +1,43 @@
+ul{
+  
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+}
+li{
+  display: inline-block;
+  margin-left: 0px;
+  text-decoration: none;
+  margin-right:;
+  padding: 5px;
+}
+a{
+  text-decoration: none;
+  color: skyblue;
+  background-color: darkgreen;
+  font-size: 27px;
+  border-radius: 8%;
+  border-collapse: collapse;
+  border-width: 3px;
+  border: 2px solid black;
+  padding: 10px 10px;
+}
+strong{
+  color: red;
+}
+div{
+  background: red;
+  padding: 20px 10px;
+  margin: 10px 30px;
+  border-radius: 2%;
+  border:2px solid green;
+}
+h1{
+  text-align: center;
+}
+.two{
+  background-color: aqua;
+}
+#four{
+  background-color: greenyellow;
+}
